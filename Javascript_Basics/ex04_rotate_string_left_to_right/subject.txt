@@ -1,0 +1,3 @@
+Write a JavaScript program to rotate the string 'Leetcode_problem_set' in right
+direction by periodically removing one letter from the end of the string
+and attaching it to the front.
